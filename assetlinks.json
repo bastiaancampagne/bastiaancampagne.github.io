@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bastiaancampagne.pointjour",
+    "sha256_cert_fingerprints": [
+      "F6:75:E7:2B:42:60:BC:81:32:7E:FD:80:CB:FD:5B:26:86:99:93:CF:C3:12:0E:44:13:67:E8:CD:85:E4:1E:96"
+    ]
+  }
+}]
